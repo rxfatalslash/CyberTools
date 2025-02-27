@@ -5,19 +5,19 @@
 ---
 
 ## 🔗 Index
-- [Training Platforms](#training-platforms)
-- [Attack Map](#attack-map)
-- [OSINT](#osint)
-- [Discovery](#discovery)
-- [Web Fuzzing](#web-fuzzing)
-- [Web Scrapping](#web-scrapping)
-- [Metadata](#metadata)
-- [Attack Pattern](#attack-pattern)
-- [Privilege Escalation](#privilege-escalation)
-- [Anti Malware Test](#anti-malware-test)
-- [Geolocation](#geolocation)
-- [Mail](#mail)
-- [Reverse Engineering](#reverse-engineering)
+- [🛡 Training Platforms](#🛡-training-platforms)
+- [🌐 Attack Map](#🌐-attack-map)
+- [🔍 OSINT](#🔍-osint)
+- [🚀 Discovery](#🚀-discovery)
+- [🕵️‍♂️ Web Fuzzing](#🕵️‍♂️-web-fuzzing)
+- [🕸 Web Scrapping](#🕸-web-scrapping)
+- [📊 Metadata](#📊-metadata)
+- [⚔️ Attack Pattern](#⚔️-attack-pattern)
+- [🚀 Privilege Escalation](#🚀-privilege-escalation)
+- [🛠 Anti Malware Test](#🛠-anti-malware-test)
+- [📍 Geolocation](#📍-geolocation)
+- [✉️ Mail](#✉️-mail)
+- [🔄 Reverse Engineering](#🔄-reverse-engineering)
 
 ---
 
@@ -54,7 +54,7 @@
 | **Type**   | **Tools**                                                                                       |
 | ---------- | ----------------------------------------------------------------------------------------------- |
 | **Device** | <ul><li>[Shodan](https://www.shodan.io)</li></ul>                                               |
-| **Ports**  | <ul><li>[Nmap](https://nmap.org)</li><li>[Nmmapper](https://www.nmmapper.com)</li></ul>           |
+| **Ports**  | <ul><li>[Nmap](https://nmap.org)</li><li>[Nmmapper](https://www.nmmapper.com)</li></ul>         |
 
 ---
 
@@ -90,9 +90,9 @@
 
 | **Type**    | **Tools**                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------- |
-| **Linux**   | <ul><li>[GTFOBins](https://gtfobins.github.io)</li></ul>                                         |
-| **Windows** | <ul><li>[pentestmonkey](https://pentestmonkey.net)</li></ul>                                      |
-| **Both**    | <ul><li>[Lolbas](https://lolbas-project.github.io)</li></ul>                                     |
+| **Linux**   | <ul><li>[GTFOBins](https://gtfobins.github.io)</li></ul>                                        |
+| **Windows** | <ul><li>[pentestmonkey](https://pentestmonkey.net)</li></ul>                                    |
+| **Both**    | <ul><li>[Lolbas](https://lolbas-project.github.io)</li></ul>                                    |
 
 ---
 
@@ -104,18 +104,18 @@
 
 ## 📍 Geolocation
 
-| **Type**      | **Tools**                                                                                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Type**      | **Tools**                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Map**       | <ul><li>[Wigle](https://wigle.net)</li><li>[Wikimapia](https://wikimapia.org)</li><li>[Geoip.com](https://geoip.com)</li></ul> |
-| **IP Logger** | <ul><li>[Grabify](https://grabify.link)</li></ul>                                                              |
+| **IP Logger** | <ul><li>[Grabify](https://grabify.link)</li></ul>                                                                              |
 
 ---
 
 ## ✉️ Mail
 
-| **Type**       | **Tools**                                                                                                                                      |
+| **Type**       | **Tools**                                                                                                                                        |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Read Check** | <ul><li>[WhoReadMe](https://whoreadme.com)</li></ul>                                                                                            |
+| **Read Check** | <ul><li>[WhoReadMe](https://whoreadme.com)</li></ul>                                                                                             |
 | **Reputation** | <ul><li>[SenderScore](https://senderscore.org)</li><li>[MxToolBox](https://mxtoolbox.com/EmailHeaders.aspx)</li><li>[IPVoid](https://www.ipvoid.com)</li><li>[Hunter](https://hunter.io)</li></ul> |
 
 ---
